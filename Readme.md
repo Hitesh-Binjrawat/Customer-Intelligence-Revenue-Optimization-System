@@ -155,8 +155,8 @@ This system helps businesses:
 
 ## 👨‍💻 Author
 
-Hitesh Binjrawat
-[https://github.com/Hitesh-Binjrawat]
-[https://www.linkedin.com/in/hitesh-binjrawat-2b5226248/]
+Hitesh Binjrawat<br>
+[Github Profile](https://github.com/Hitesh-Binjrawat)  
+[LinkedIn Profile](https://www.linkedin.com/in/hitesh-binjrawat-2b5226248/)  
 
 ---
